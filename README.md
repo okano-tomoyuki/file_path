@@ -1,4 +1,4 @@
-# DataFrame
+# FilePath
 
 FilePathはC++においてOS間の差分を吸収してファイルパス操作を
 可能にするためのクラスでC++17からstlに追加されたstd::filesystemに
